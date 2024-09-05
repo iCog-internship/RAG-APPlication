@@ -1,2 +1,2 @@
-##RAG based question and answer from a pdf data
-a RAG application with a pdf file from wikipidia about AGI.
+## RAG based question and answer app from a pdf data
+- The data is about a research paper on AGI, so this app will answer any question about AGI.
